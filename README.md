@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Suryanshi 👋</h1>
+<h1 align="center">Hi! I'm Suryanshi </h1>
 
 <p align="center">
-  Final-year CSE student · Frontend Developer · Building things from scratch
+  CSE student · Frontend Developer · Building things from scratch
 </p>
 
 ---
@@ -40,9 +40,10 @@
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SURYANSHI-WEB&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURYANSHI-WEB&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=SURYANSHI-WEB&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
