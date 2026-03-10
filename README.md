@@ -40,8 +40,6 @@
 
 ## GitHub Stats
 
-## GitHub Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SURYANSHI-WEB&theme=tokyonight&hide_border=true" height="150"/>
 </p>
